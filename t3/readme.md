@@ -1,4 +1,4 @@
-# T3 - TODO
+# T3 - Handle all messages as ChildIDResponses
 
 
 ## How long did it run?
