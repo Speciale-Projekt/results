@@ -1,0 +1,88 @@
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.UNKNOWN: -1>, 'tlvs': [], 'total_message': 'F2'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.ADVERTISEMENT: 4>, 'tlvs': [{'type': <TLVS.UNKNOWN_TLV: -1>, 'length': 2, 'value': '2C 00'}, {'type': <TLVS.UNKNOWN_TLV: -1>, 'length': 109, 'value': '0D 2F 00 F0 EF EF EF EF EF EF EF EF EF EF 61 01 00 00 00 00 00 00 E0 58 89 18 EB 55 00 00 10 00 87 18 EB 55 00 00 EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF'}], 'total_message': '00 15 04 00 00 02 30 00 FF 00 40 04 80 02 2C 00 F0 6D 0D 2F 00 F0 EF EF EF EF EF EF EF EF EF EF 61 01 00 00 00 00 00 00 E0 58 89 18 EB 55 00 00 10 00 87 18 EB 55 00 00 EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF EF'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.UNKNOWN: -1>, 'tlvs': [], 'total_message': '64 10 00 00 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.UNKNOWN: -1>, 'tlvs': [], 'total_message': '00 04 FF E0 80 07 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.PARENT_REQUEST: 9>, 'tlvs': [{'type': <TLVS.UNKNOWN_TLV: -1>, 'length': 64, 'value': '30 00 F0 80 02 79 F0 00 F0 4E 4E 4E 4E 4E 4E 4E 00 F0 F1 01 00 00 00 00 00 00 50 74 8A 18 EB 55 00 00 10 00 87 18 EB 55 00 00 00 00 1A 04 80 08 E2 00 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A'}], 'total_message': '00 15 04 00 00 00 00 00 00 00 01 09 7F 40 30 00 F0 80 02 79 F0 00 F0 4E 4E 4E 4E 4E 4E 4E 00 F0 F1 01 00 00 00 00 00 00 50 74 8A 18 EB 55 00 00 10 00 87 18 EB 55 00 00 00 00 1A 04 80 08 E2 00 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A 0A'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.UNKNOWN: -1>, 'tlvs': [], 'total_message': 'E5'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.LINK_ACCEPT_AND_REQUEST: 2>, 'tlvs': [{'type': <TLVS.LINK_MARGIN_TLV: 16>, 'length': 0, 'value': ''}], 'total_message': 'DC 10 1A 04 80 02 7F FF 1A 04 80 02 10 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+Crashed with rcode: 134
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
