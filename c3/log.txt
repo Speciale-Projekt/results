@@ -1,0 +1,18 @@
+Inti: 2022-06-12T11:58:25.659491
+
+----- ----- ----- ----- ----- 
+2022-06-12T12:21:07.806363Crashed with rcode: -6
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-12T12:37:08.494864Crashed with rcode: -6
+[{'Name': <Commands.PARENT_REQUEST: 9>, 'tlvs': [{'type': <TLVS.MODE_TLV: 1>, 'length': 1, 'value': '0F'}, {'type': <TLVS.CHALLENGE_TLV: 3>, 'length': 8, 'value': '45 C2 CD 84 96 2F 79 02'}, {'type': <TLVS.SCAN_MASK_TLV: 14>, 'length': 1, 'value': 'C0'}, {'type': <TLVS.VERSION_TLV: 18>, 'length': 2, 'value': '00 03'}], 'total_message': '00 15 04 00 00 00 00 00 00 00 01 09 01 01 0F 03 08 45 C2 CD 84 96 2F 79 02 0E 01 C0 12 02 00 03'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-12T13:00:19.278628Crashed with rcode: -6
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-12T13:06:57.540904Crashed with rcode: -6
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----

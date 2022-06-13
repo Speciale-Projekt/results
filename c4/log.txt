@@ -1,0 +1,54 @@
+Inti: 2022-06-12T12:26:44.243314
+
+----- ----- ----- ----- ----- 
+2022-06-12T12:42:00.624534Crashed with rcode: -6
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-12T12:44:02.159810Crashed with rcode: -6
+[{'Name': <Commands.PARENT_REQUEST: 9>, 'tlvs': [{'type': <TLVS.MODE_TLV: 1>, 'length': 1, 'value': '0F'}, {'type': <TLVS.CHALLENGE_TLV: 3>, 'length': 8, 'value': '45 C2 EC 84 96 2F 79 02'}, {'type': <TLVS.SCAN_MASK_TLV: 14>, 'length': 1, 'value': 'C0'}, {'type': <TLVS.VERSION_TLV: 18>, 'length': 2, 'value': '00 03'}, {'type': <TLVS.UNKNOWN_TLV: -1>, 'length': 0, 'value': ''}], 'total_message': '00 15 04 00 00 00 00 00 00 00 01 09 01 01 0F 03 08 45 C2 EC 84 96 2F 79 02 0E 01 C0 12 02 00 03 F0 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-12T12:44:57.437104Crashed with rcode: -6
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-12T12:49:13.643762Crashed with rcode: -6
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-12T12:50:11.090302Crashed with rcode: -6
+[{'Name': <Commands.CHILD_ID_REQUEST: 11>, 'tlvs': [{'type': <TLVS.RESPONSE_TLV: 4>, 'length': 8, 'value': 'F0 37 ED D1 0E 71 3A A0'}, {'type': <TLVS.LINK_LAYER_FRAME_COUNTER_TLV: 5>, 'length': 4, 'value': '00 00 00 00'}, {'type': <TLVS.MLE_FRAME_COUNTER_TLV: 8>, 'length': 4, 'value': '00 00 00 0A'}, {'type': <TLVS.MODE_TLV: 1>, 'length': 1, 'value': '0F'}, {'type': <TLVS.TIMEOUT_TLV: 2>, 'length': 4, 'value': '00 00 00 F0'}, {'type': <TLVS.VERSION_TLV: 18>, 'length': 2, 'value': '00 03'}, {'type': <TLVS.TLV_REQUEST_TLV: 13>, 'length': 3, 'value': '0A 0C 09'}, {'type': <TLVS.SOURCE_ADDRESS_TLV: 0>, 'length': 0, 'value': ''}], 'total_message': '00 15 0A 00 00 00 00 00 00 00 01 0B 04 08 F0 37 ED D1 0E 71 3A A0 05 04 00 00 00 00 08 04 00 00 00 0A 01 01 0F 02 04 00 00 00 F0 12 02 00 03 0D 03 0A 0C 09 00 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-12T13:00:45.577886Crashed with rcode: -6
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-12T13:18:54.264210Crashed with rcode: -6
+[{'Name': <Commands.PARENT_REQUEST: 9>, 'tlvs': [{'type': <TLVS.MODE_TLV: 1>, 'length': 1, 'value': '0F'}, {'type': <TLVS.CHALLENGE_TLV: 3>, 'length': 8, 'value': '45 C2 CD 84 FF 00 00 00'}, {'type': <TLVS.SCAN_MASK_TLV: 14>, 'length': 1, 'value': 'C0'}, {'type': <TLVS.VERSION_TLV: 18>, 'length': 2, 'value': '00 03'}, {'type': <TLVS.UNKNOWN_TLV: -1>, 'length': 0, 'value': ''}], 'total_message': '00 15 04 00 00 00 00 00 00 00 01 09 01 01 0F 03 08 45 C2 CD 84 FF 00 00 00 0E 01 C0 12 02 00 03 F0 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-12T16:20:47.110967Crashed with rcode: -6
+[{'Name': <Commands.UNKNOWN: -1>, 'tlvs': [{'type': <TLVS.UNKNOWN_TLV: -1>, 'length': 182, 'value': 'B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 02 0C 03 84 AE 2F 79 02 0D B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 AE B6 B6 B6 B6 B6 B6 B6 B6 B6 02 0C 03 84 AE 2F 79 02 0D E6 E1 12 02 00 03 0C 00'}], 'total_message': '00 00 15 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 02 0C 03 84 AE 2F 79 02 0D B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 B6 AE B6 B6 B6 B6 B6 B6 B6 B6 B6 02 0C 03 84 AE 2F 79 02 0D E6 E1 12 02 00 03 0C 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-12T17:48:11.992889Crashed with rcode: -6
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-12T19:46:58.152061Crashed with rcode: -6
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-13T02:41:44.497020Crashed with rcode: -6
+[{'Name': <Commands.CHILD_ID_REQUEST: 11>, 'tlvs': [{'type': <TLVS.RESPONSE_TLV: 4>, 'length': 8, 'value': 'F0 37 ED D1 0E 71 3A A0'}, {'type': <TLVS.LINK_LAYER_FRAME_COUNTER_TLV: 5>, 'length': 4, 'value': '00 00 00 00'}, {'type': <TLVS.MLE_FRAME_COUNTER_TLV: 8>, 'length': 4, 'value': '00 00 00 0A'}, {'type': <TLVS.MODE_TLV: 1>, 'length': 1, 'value': '0F'}, {'type': <TLVS.TIMEOUT_TLV: 2>, 'length': 4, 'value': '00 00 00 F0'}, {'type': <TLVS.VERSION_TLV: 18>, 'length': 2, 'value': '00 03'}, {'type': <TLVS.TLV_REQUEST_TLV: 13>, 'length': 3, 'value': '0A 0C 09'}, {'type': <TLVS.SOURCE_ADDRESS_TLV: 0>, 'length': 0, 'value': ''}], 'total_message': '00 15 0A 00 00 00 00 00 00 00 01 0B 04 08 F0 37 ED D1 0E 71 3A A0 05 04 00 00 00 00 08 04 00 00 00 0A 01 01 0F 02 04 00 00 00 F0 12 02 00 03 0D 03 0A 0C 09 00 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-13T06:36:15.188716Crashed with rcode: -6
+[{'Name': <Commands.DISCOVERY_REQUEST: 16>, 'tlvs': [{'type': <TLVS.THREAD_DISCOVERY_TLV: 26>, 'length': 4, 'value': '80 02 30 00'}], 'total_message': 'FF 10 1A 04 80 02 30 00'}]
+----- ----- ----- ----- -----
+----- ----- ----- ----- ----- 
+2022-06-13T06:45:42.939221Crashed with rcode: -6
+[{'Name': <Commands.PARENT_REQUEST: 9>, 'tlvs': [{'type': <TLVS.MODE_TLV: 1>, 'length': 1, 'value': '0F'}, {'type': <TLVS.CHALLENGE_TLV: 3>, 'length': 8, 'value': '45 C2 CD 84 96 2F 79 02'}, {'type': <TLVS.SCAN_MASK_TLV: 14>, 'length': 1, 'value': 'C0'}, {'type': <TLVS.VERSION_TLV: 18>, 'length': 2, 'value': '00 03'}], 'total_message': '00 15 04 00 00 00 00 00 00 00 01 09 01 01 0F 03 08 45 C2 CD 84 96 2F 79 02 0E 01 C0 12 02 00 03'}]
+----- ----- ----- ----- -----
